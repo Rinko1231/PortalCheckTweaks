@@ -1,0 +1,11 @@
+modLoader = "javafml"
+loaderVersion = "[43,)"
+license = "MIT"
+[[mods]]
+modId = "portalchecktweaks"
+version = "1.20.1-1.0.0"
+displayName = "Portal Check Tweaks"
+authors = [
+    "Rinko1231"
+]
+description = "Disable findCollisionFreePosition() for non-Living, non-player, or even all entities. Fully configurable."

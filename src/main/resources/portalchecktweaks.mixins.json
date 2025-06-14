@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.rinko1231.portalchecktweaks.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "portalchecktweaks.refmap.json",
+  "mixins": [
+    "PortalShapeMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
